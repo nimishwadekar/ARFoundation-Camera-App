@@ -1,0 +1,1 @@
+A simple photo capture application using Unity's ARFoundation package.
